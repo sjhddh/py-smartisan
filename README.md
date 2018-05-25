@@ -1,4 +1,4 @@
-# 啪锤库(py-smartisan)
+# 啪锤库 (py-smartisan)
 
 ##### *A kindergarten-level python implementation of b\*s functions in smartisan TNT*
 
@@ -10,7 +10,9 @@
 
 这是一个使用幼儿园级别python语言实现某锤科技在[2018年发布会](https://www.bilibili.com/video/av23492564/)上吹\*的各种语音识别交互office功能的项目。
 
-我们欢迎全球各地的海外华人（锤粉也行）加入到这个项目的共享开发中来。
+我们欢迎全球各地的锤黑、锤粉、路人等等加入到这个项目的共享开发中来。
+
+项目没有错，代码共享本身是无辜的，请各路立场的开发者Keep Real的同时，也要尊重世界和平，PEACE～
 
 ### Development Spec：
 
