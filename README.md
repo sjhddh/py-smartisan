@@ -17,13 +17,13 @@ A kindergarten-level python implementation of b\*s functions in smartisan TNT
 
 #### File Structure
 
+```
+|--
   |-- Model: 存放所有的office套件功能模型
-
   |-- Interface: 存放所有人机交互模型，比如语音交互等等
-  
   |-- Controller: 模型控制器，保证与控制interface和model之间的交流
-  
   |-- Examples: 前期准备的一些for fun的小案例
+```
 
 #### Specification
 
